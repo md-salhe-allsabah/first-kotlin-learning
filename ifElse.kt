@@ -49,6 +49,11 @@ fun main() {
 //        else -> println("$name , You are very senior")
 //    }
 
+
+    val canEnter : String = if(age > 18) "yes" else "no"
+
+    println("can $name enter : $canEnter")
+
 }
 
 
