@@ -3,7 +3,7 @@ fun main()
 //  String input
     println("enter your name : ")
     val name : String = readln()
-    println("hello ${name}!")
+    println("hello $name!")
 
 //   Int input
     println("enter your age : ")
